@@ -1,0 +1,52 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "探索前端开发的未来趋势",
+            "excerpt": "随着技术的不断发展，前端开发领域正经历着翻天覆地的变化。本文将探讨未来几年可能出现的前端开发趋势与创新方向。",
+            "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-1",
+            "category": "技术"
+        },
+        {
+            "id": 2,
+            "title": "CSS新特性解析",
+            "excerpt": "CSS在近年来有了许多令人兴奋的新特性，如容器查询、网格布局等。这篇文章将深入分析这些新特性的使用方法与实践案例。",
+            "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-2",
+            "category": "技术"
+        },
+        {
+            "id": 3,
+            "title": "提升网站性能的10个技巧",
+            "excerpt": "网站性能对用户体验和SEO都至关重要。这里分享10个简单但有效的方法，帮助你优化网站加载速度和整体性能表现。",
+            "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-3",
+            "category": "技术"
+        },
+        {
+            "id": 4,
+            "title": "设计思维在产品开发中的应用",
+            "excerpt": "设计思维是一种以人为本的解决问题方法。本文将探讨如何将设计思维融入到产品开发流程中，创造更好的用户体验。",
+            "image": "https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-4",
+            "category": "设计"
+        },
+        {
+            "id": 5,
+            "title": "数字极简主义：如何在信息过载时代保持专注",
+            "excerpt": "在信息爆炸的时代，如何保持专注成为一项重要技能。本文探讨数字极简主义理念及其在日常生活中的实践方法。",
+            "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-5",
+            "category": "思考"
+        },
+        {
+            "id": 6,
+            "title": "创意灵感的来源：设计师必备资源",
+            "excerpt": "对设计师来说，持续获取创意灵感至关重要。本文汇总了一系列优质资源，帮助设计师拓展思路、激发创意。",
+            "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "url": "#article-6",
+            "category": "设计"
+        }
+    ]
+} 
